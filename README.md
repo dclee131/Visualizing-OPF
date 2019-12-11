@@ -1,8 +1,9 @@
 # Visualizing nonconvex constraints in OPF problems
 
-This code provides a visualization of power flow feasibility set, which is defined by the AC power flow equations and operational constraints. The AC power flow equation is a nonlinear equation, which creates a nonlinear manifold in high dimension shown in Figure (a). The feasibility set projects the manifold onto the power injection space shown in Figure (b).
+This code provides a visualization of power flow feasibility sets, which is defined by the AC power flow equations and operational constraints. The AC power flow equation is a nonlinear equation, which creates a nonlinear manifold in high dimension shown in Figure (a). The feasibility set projects the manifold onto the power injection space shown in Figure (b).
 
 ![](src/feasibility_set.png)
+(Here we provide code for plotting the feasibility set. You can read the references for convex restriction.)
 
 ### Running the code
 
