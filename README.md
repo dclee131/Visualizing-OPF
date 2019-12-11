@@ -1,9 +1,12 @@
-# Visualizing-OPF
-Visualizing nonconvex constraints in OPF problem
+# Visualizing nonconvex constraints in OPF problems
+
+
+![RobotCVXRS Demo](results/test1.gif)
 
 ### Running the code
 
-The script is based on MATLAB and can be run without installation.
+The script is based on MATLAB and [MATPOWER](https://matpower.org/).
+Run 'plot_9bus.m' as an example, which can be run without installation.
 
 ## References
 
