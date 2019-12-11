@@ -14,8 +14,8 @@ Solid blue line - Maximum voltage magnitude limit <br />
 Dashed blue line - Minimum voltage magnitude limit <br />
 Solid Yellow line - Maximum reactive power generation & slack bus active power generation limit <br />
 Dashed Yellow line - Minimum reactive power generation & slack bus active power generation limit <br />
-Solid Purple line - Line flow magnitude limit
-Thick solid blue line - Solvability boundary <br />
+Solid Purple line - Line flow magnitude limit <br />
+Thick solid blue line - Solvability boundary
 
 ### Running the code
 
