@@ -5,9 +5,9 @@ Visualizing nonconvex constraints in OPF problem
 
 The script is based on MATLAB and can be run without installation.
 
-## Citing CVXRS_OPF
+## References
 
-If you find this content useful for your research, please consider citing: 
+This research code was developed and used for the following articles where you can find more details.
 
 [1] Convex Restriction of Power Flow Feasibility Set
 
