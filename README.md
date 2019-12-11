@@ -2,7 +2,8 @@
 
 This code provides a visualization of power flow feasibility sets, which is defined by the AC power flow equations and operational constraints. The AC power flow equation is a nonlinear equation, which creates a nonlinear manifold in high dimension shown in Figure (a). The feasibility set projects the manifold onto the power injection space shown in Figure (b). We provide the code for plotting the feasibility set by solving power flow equation over the grid and plotting contour regions.
 
-![](src/feasibility_set.png =100x20)
+<img src="src/feasibility_set.png" width="200">
+
 (The figures are from the reference [2]. Here we provide code for plotting the feasibility set. You can read the references for convex restriction.)
 
 
