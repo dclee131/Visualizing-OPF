@@ -11,10 +11,11 @@ This code provides a visualization of power flow feasibility sets, which is defi
 The color and style of the contour represents the type of violated limit.
 
 Solid blue line - Maximum voltage magnitude limit <br />
-Dashed blue line - Maximum voltage magnitude limit <br />
+Dashed blue line - Minimum voltage magnitude limit <br />
 Solid Yellow line - Maximum reactive power generation & slack bus active power generation limit <br />
-Dashed Yellow line - Maximum reactive power generation & slack bus active power generation limit <br />
+Dashed Yellow line - Minimum reactive power generation & slack bus active power generation limit <br />
 Solid Purple line - Line flow magnitude limit
+Thick solid blue line - Solvability boundary <br />
 
 ### Running the code
 
