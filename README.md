@@ -6,6 +6,13 @@ This code provides a visualization of power flow feasibility sets, which is defi
 
 (The figures are from the reference [2]. Here we provide code for plotting the feasibility set. You can read the references for convex restriction.)
 
+### Color codes
+
+The color and style of the contour represents the type of violated limit.
+
+Solid blue line - Maximum voltage magnitude limit
+
+Dashed blue line - Maximum voltage magnitude limit
 
 ### Running the code
 
